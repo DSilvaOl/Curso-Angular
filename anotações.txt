@@ -1,0 +1,51 @@
+Angular = Framework com base em JS.
+
+Para criação de SPAs= Trabalhando com arquitetura de
+Front, separado da do Back, que se comunica com API que se 
+comunica com Json.
+
+Possui arquitetura baseada em componentes.
+
+
+
+Mto utilizado em aplicações de Grande Porte.
+
+Compõe a stack Mean
+
+
+*PORQUE ANGULAR
+ Estrutura de Organização= promove simplicidade e reaproveitamento do código.
+
+Sistema de (Tooling) muito rico (CLI, modulo de HTTP, router etc..).
+
+Integração nativa com TypeScript= 
+
+Mantido pelo Google
+
+
+---------------------------------------------------------------------------------------
+
+*video #9
+
+*Criando componentes 
+*Dados no template
+*Css no Angular
+*Comp. dados pai/filho
+*Diretivas do Angular
+
+Navergar pelas pastas:
+
+(Volta uma Pasta) cd.. 
+(Adiantar uma pasta) cd espaço (+ nome da pasta)
+dir (mostra as pastas que tenho, dentro da pasta que estou)
+mostrar arqs e pastas por parte (/p)
+cls (limpa a tela)
+ 
+
+Git:
+
+git status (pra ver os novos arquivos)
+git add . (pra add os novos arquivos)
+git status (novamente) pra conferir se os novos arqs. foram add
+git commit -a -m "Nome da atualização" (Comitar os novos arqs.)
+git push origin master (ou main verificar qual a branch)
